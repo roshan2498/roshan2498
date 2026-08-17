@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=220&section=header&text=Roshan%20Kharke&fontSize=56&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Software%20Engineer%20II%20%40%20Innovaccer&descSize=18&descAlignY=62&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=1" alt="header" />
-</p>
-
-<p align="center">
-  <img src="assets/profile.jpg" width="128" height="128" alt="Roshan Kharke" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=240&section=header&text=Roshan%20Kharke&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Software%20Engineer%20II%20%40%20Innovaccer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=680&lines=Shipping+AI-powered+pharmacy+tools;Electron+%2B+React+%2B+FastAPI;Full-stack+at+healthcare+%26+fintech+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=640&lines=Shipping+AI-powered+pharmacy+tools;Electron+%2B+React+%2B+FastAPI;Full-stack+at+healthcare+%26+fintech+scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,12 +14,12 @@
   <a href="https://github.com/roshan2498"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/nikoCodes"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:roshan.kharke@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=roshan2498&color=8e54e9&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80_Building-Equipp_Copilot-6366f1?style=flat-square&logo=github&logoColor=white" alt="Building Equipp Copilot" />
   <img src="https://img.shields.io/badge/Noida%20%2F%20IST-333?style=flat-square" alt="Timezone" />
-  <img src="https://komarev.com/ghpvc/?username=roshan2498&color=8e54e9&style=flat-square" alt="Profile views" />
 </p>
 
 ### About
@@ -58,10 +54,8 @@ I build product UIs and the services behind them — Electron, React, Angular, F
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,graphql" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" alt="backend" />
 </p>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Cloud & DevOps**
 
