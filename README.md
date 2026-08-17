@@ -71,14 +71,12 @@ I build product UIs and the services behind them — Electron, React, Angular, F
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan2498&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan2498&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./assets/github-stats.svg" alt="GitHub stats" />
+  <img src="./assets/github-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=roshan2498&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  </a>
+  <img src="./assets/github-streak.svg" alt="GitHub streak" />
 </p>
 
 ---
